@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-complete-guide-first-app"
+    }
+  },
+  "defaultProject": "angular-complete-guide-first-app",
+  "cli": {
+    "analytics": false
+  }
 }
